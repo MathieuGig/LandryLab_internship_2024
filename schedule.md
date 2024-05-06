@@ -9,6 +9,7 @@
 9h: Prep computer 👍
 
 10h: Generate heatmaps showing how the model behaves when tuning hyperparameters
+- Also revisited gridsearchCV.
 
 13h-14h: FKS Meeting
 
