@@ -16,7 +16,7 @@
 
 13h-14h: FKS Meeting 👍
 
-15h-16h: Adarsh's mock presentation 
+15h-16h: Adarsh's mock presentation 👍
 
 ### May 7th (8h20-9h20, 12h-16h20) (5h)
 
