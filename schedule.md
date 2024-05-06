@@ -14,7 +14,7 @@
 - Faire varier 'min_samples_split' et 'min_samples_leaf', diminue la performance sur train et test
 - [In depth parameter tuning](https://medium.com/all-things-ai/in-depth-parameter-tuning-for-random-forest-d67bb7e920d)
 
-13h-14h: FKS Meeting
+13h-14h: FKS Meeting 👍
 
 15h-16h: Adarsh's mock presentation 
 
