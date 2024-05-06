@@ -16,6 +16,12 @@
 
 ### May 7th (8h20-9h20, 12h-16h20) (5h)
 
+1. S2 Data: Taxonomic data on orthologs
+2. Complete mat & met section
+3. Prep Poster Presentation
+
 ### May 8th (8h20-16h20) (8h)
+
+9h-10h30: Lab meeting
 
 ### May 9th and 10th : PROTEO
