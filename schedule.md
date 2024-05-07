@@ -18,11 +18,15 @@
 
 15h-16h: Adarsh's mock presentation 👍
 
-### May 7th (8h20-9h20, 12h-16h20) (5h)
+### May 7th (8h-9h20, 12h-17h) (6h)
+8h-9h: Revisit gridSearch
+9h-12h: Class
+15h-16h: Antifungal Resistance meeting
+16h-17h: Meeting with Christian
 
-1. S2 Data: Taxonomic data on orthologs
-2. Complete mat & met section
-3. Prep Poster Presentation
+- I lose an ortholog and some singles during merging... What happens ?
+- Re-tune all hyperparams
+- 
 
 ### May 8th (8h20-16h20) (8h)
 
