@@ -1,6 +1,6 @@
 # Schedule
 
-## Week 1 : May 6th to 10th
+## Week 1 : May 6 to 10
 
 ### May 6th (8h20-16h20) (8h)
 
@@ -28,14 +28,24 @@
 
 ### May 8th (8h10-16h10) (8h)
 
-8h10-9h : FKS
+8h10-9h : FKS 👍
 
-9h-10h30: Lab meeting
+9h-10h30: Lab meeting 👍
 
-10h30-12h: FKS manuscript
+10h30-12h: FKS manuscript 👍
 
-12h30-13h30: IBIS conference
+12h30-13h30: IBIS conference 👍
 
-13h30-16h10: Prep PROTEO
+13h30-16h10: Prep PROTEO 👍
 
 ### May 9th and 10th : PROTEO (8+8=16h)
+
+## Week 2 : May 13 to 17
+
+### May 13 (9-16) (7h)
+
+TO DO:
+- Write FKS mat&met
+- Reimplement SHAP values
+
+12h-13h : Coding Club
