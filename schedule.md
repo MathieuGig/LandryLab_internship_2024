@@ -47,5 +47,6 @@
 TO DO:
 - Write FKS mat&met
 - Reimplement SHAP values
+  - [intro to SHAP](https://www.datacamp.com/tutorial/introduction-to-shap-values-machine-learning-interpretability)
 
 12h-13h : Coding Club
