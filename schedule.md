@@ -53,8 +53,20 @@ TO DO:
 
 ### May 14 (8-9 and 12-16) (5h)
 
-- Reimplement SHAP values
+- Reimplement SHAP values. 👍
   - [extract most important features](https://github.com/shap/shap/issues/632)
-- Look at Romain's Feedback on writing mat&met 👍
+- Look at Romain's Feedback on writing mat&met. 👍
 - Readings for new project.
-- Make Python bootcamp workshops
+- Make Python bootcamp workshops.
+- Prep for journal club.
+
+
+### May 15
+
+### May 16
+
+12:30-13:30 IBIS Speaker & Pizza
+
+### May 17
+
+11:30-13:00 Lab meeting 
