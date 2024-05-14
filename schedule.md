@@ -1,6 +1,6 @@
 # Schedule
 
-## Week 1 : May 6 to 10
+## Week 1 : May 6 to 10 (38h)
 
 ### May 6th (8h20-16h20) (8h)
 
@@ -45,8 +45,15 @@
 ### May 13 (9-16) (7h)
 
 TO DO:
-- Write FKS mat&met
+- Write FKS mat&met 👍
 - Reimplement SHAP values
   - [intro to SHAP](https://www.datacamp.com/tutorial/introduction-to-shap-values-machine-learning-interpretability)
 
-12h-13h : Coding Club
+12h-13h : Coding Club 👍
+
+### May 14 (8-9 and 12-16) (5h)
+
+- Reimplement SHAP values
+- Look at Romain's Feedback on writing mat&met 👍
+- Readings for new project.
+- Make Python bootcamp workshops
