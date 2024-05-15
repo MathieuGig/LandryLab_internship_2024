@@ -71,6 +71,7 @@ TO DO:
 - Prep for journal club.
 
 12:30-13:30 IBIS Speaker & Pizza
+13:30-14:15 Meeting with IBIS speaker
 
 ### May 17
 
