@@ -61,9 +61,14 @@ TO DO:
 - Prep for journal club.
 
 
-### May 15
+### May 15 (8:30 - 16:00) (7h30)
+
+- Make Python bootcamp workshops.
+- Readings for new project.
 
 ### May 16
+
+- Prep for journal club.
 
 12:30-13:30 IBIS Speaker & Pizza
 
