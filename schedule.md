@@ -61,15 +61,15 @@ TO DO:
 - Prep for journal club.
 
 
-### May 15 (8:30 - 16:00) (7h30)
+### May 15 (8:30 - 16:00) (7h)
 
 - Make Python bootcamp workshops.
   - Regex
   - Commenting Code
-  - Local vs Global variable
+  - Local vs Global variable 👍
 - Readings for new project.
 
-### May 16
+### May 16 (8-9 and 11:30-16h) (5h30)
 
 - Prep for journal club.
 
