@@ -64,6 +64,9 @@ TO DO:
 ### May 15 (8:30 - 16:00) (7h30)
 
 - Make Python bootcamp workshops.
+  - Regex
+  - Commenting Code
+  - Local vs Global variable
 - Readings for new project.
 
 ### May 16
