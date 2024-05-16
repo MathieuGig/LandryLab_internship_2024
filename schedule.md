@@ -81,8 +81,10 @@ TO DO:
 
 14:15-16:
 - Readings for new project.
-- Prep for journal club.
 
 ### May 17
 
-11:30-13:00 Lab meeting
+- Make Regex Python bootcamp workshop.
+- Prep for journal club.
+- 11:30-13:00 Lab meeting
+- Readings for new project.
