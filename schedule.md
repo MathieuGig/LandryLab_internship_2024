@@ -69,12 +69,19 @@ TO DO:
   - Local vs Global variable 👍
 - Readings for new project.
 
-### May 16 (8-9 and 11:30-16h) (5h30)
+### May 16 (8:20-9:20 and 11:30-16h) (5h30)
 
-- Prep for journal club.
+8:20-9:20 and 11:30-12:30 :
+- Make Python bootcamp workshops.
+  - Regex
+  - Commenting Code
 
 12:30-13:30 IBIS Speaker & Pizza
 13:30-14:15 Meeting with IBIS speaker
+
+14:15-16:
+- Readings for new project.
+- Prep for journal club.
 
 ### May 17
 
