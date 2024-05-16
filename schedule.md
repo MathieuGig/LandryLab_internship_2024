@@ -74,10 +74,10 @@ TO DO:
 8:20-9:20 and 11:30-12:30 :
 - Make Python bootcamp workshops.
   - Regex
-  - Commenting Code
+  - Commenting Code 👍
 
-12:30-13:30 IBIS Speaker & Pizza
-13:30-14:15 Meeting with IBIS speaker
+12:30-13:30 IBIS Speaker & Pizza 👍
+13:30-14:15 Meeting with IBIS speaker 👍
 
 14:15-16:
 - Readings for new project.
@@ -85,4 +85,4 @@ TO DO:
 
 ### May 17
 
-11:30-13:00 Lab meeting 
+11:30-13:00 Lab meeting
