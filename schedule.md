@@ -84,7 +84,7 @@ TO DO:
 
 - Make Regex Python bootcamp workshop. 👍
 - 11:30-13:00 Lab meeting. 👍
-- Readings for new project.
+- Readings for new project. 👍
 
 # Week 3
 
