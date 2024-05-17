@@ -82,7 +82,7 @@ TO DO:
 
 ### May 17 (8:00-16:00) (8h)
 
-- Make Regex Python bootcamp workshop.
-- Prep for journal club.
+- Make Regex Python bootcamp workshop. 👍
 - 11:30-13:00 Lab meeting
+- Prep for journal club.
 - Readings for new project.
