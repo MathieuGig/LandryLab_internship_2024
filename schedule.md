@@ -1,6 +1,4 @@
-# Schedule
-
-## Week 1 : May 6 to 10 (38h)
+# Week 1 : May 6 to 10 (38h)
 
 ### May 6th (8h20-16h20) (8h)
 
@@ -40,7 +38,7 @@
 
 ### May 9th and 10th : PROTEO (8+8=16h)
 
-## Week 2 : May 13 to 17
+# Week 2 : May 13 to 17 (32.5 h)
 
 ### May 13 (9-16) (7h)
 
@@ -82,7 +80,7 @@ TO DO:
 14:15-16:
 - Readings for new project.
 
-### May 17
+### May 17 (8:00-16:00) (8h)
 
 - Make Regex Python bootcamp workshop.
 - Prep for journal club.
