@@ -88,10 +88,17 @@ TO DO:
 
 # Week 3
 
-### May 20 (8h30 à 16h30?)
+### May 20 (7h)
 
 - Prep Journal Club
 
 - Débuter nouveau projet:
   - Tu peux commencer à voir comment on map des reads sur un génome ou une partie de génome, comment on call les SNPs and CNVs, et comment de la on peut essayer de prédire si ces SNPs ont un effet on non?
   - Tu peux voir aussi comment les gens simulent des données de Whole Genome Sequencing pour tester des pipelines. On pourrait faire ça aussi.
+
+
+### May 21 (8h-9h20 + 11h30-16h) (5h50)
+
+- Prep Journal Club
+- (12:30-13:30) Interlab: Soham
+- Débuter nouveau projet
