@@ -105,6 +105,7 @@ TO DO:
 
 ### May 22 (8h-16h) (8h)
 
+- Recherche nouveau projet
 - (12h-13h) Journal Club
 
 ### May 23 
