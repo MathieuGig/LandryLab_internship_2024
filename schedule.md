@@ -99,6 +99,18 @@ TO DO:
 
 ### May 21 (8h-9h20 + 11h30-16h) (5h50)
 
-- Prep Journal Club
-- (12:30-13:30) Interlab: Soham
-- Débuter nouveau projet
+- Prep Journal Club 👍
+- (12:30-13:30) Interlab: Soham 👍
+- Débuter nouveau projet 👍
+
+### May 22 (8h-16h) (8h)
+
+- (12h-13h) Journal Club
+
+### May 23 
+
+- (12:30-13:30) IBIS Pizza conference
+
+### May 24
+
+- (11:30-13:00) Lab Meeting
