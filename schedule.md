@@ -105,12 +105,15 @@ TO DO:
 
 ### May 22 (8h-16h) (8h)
 
-- Recherche nouveau projet
-- (12h-13h) Journal Club
+- Recherche nouveau projet 👍
+- (12h-13h) Journal Club 👍
 
-### May 23 
+### May 23 (8h-9h20 + 11h30-16h) (5h50)
 
+- (8:00-9:20) Recherche projet Pipeline
+- (11:30-12:20) Recherche projet Pipeline 
 - (12:30-13:30) IBIS Pizza conference
+- (13:35-16:00) Recherche projet Pipeline 
 
 ### May 24
 
