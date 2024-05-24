@@ -86,7 +86,7 @@ TO DO:
 - 11:30-13:00 Lab meeting. 👍
 - Readings for new project. 👍
 
-# Week 3
+# Week 3 *(Manque 1h30)*
 
 ### May 20 (7h)
 
@@ -115,6 +115,8 @@ TO DO:
 - (12:30-13:30) IBIS Pizza conference
 - (13:35-16:00) Recherche projet Pipeline 
 
-### May 24
+### May 24 (8:30-16h) (7h30)
 
+- (8:00-11:30) Recherche projet Pipeline
 - (11:30-13:00) Lab Meeting
+- (13:30-16:00) Recherche projet Pipeline 
