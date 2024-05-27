@@ -125,7 +125,7 @@ TO DO:
 ### May 27 (8:10-16:10) (8h)
 - (8:10-11:30) Prepare AMR presentation 👍
 - (12:00-13:00) Coding Club 👍
-- 13:00-16:00) Pipeline project & Prepare AMR presentation
+- (13:00-16:00) Pipeline project & Prepare AMR presentation
 
 ### May 28
 - Prep AMR pres
