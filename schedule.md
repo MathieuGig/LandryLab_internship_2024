@@ -96,7 +96,6 @@ TO DO:
   - Tu peux commencer à voir comment on map des reads sur un génome ou une partie de génome, comment on call les SNPs and CNVs, et comment de la on peut essayer de prédire si ces SNPs ont un effet on non?
   - Tu peux voir aussi comment les gens simulent des données de Whole Genome Sequencing pour tester des pipelines. On pourrait faire ça aussi.
 
-
 ### May 21 (8h-9h20 + 11h30-16h) (5h50)
 
 - Prep Journal Club 👍
@@ -110,20 +109,35 @@ TO DO:
 
 ### May 23 (8h-9h20 + 11h30-16h) (5h50)
 
-- (8:00-9:20) Recherche projet Pipeline
-- (11:30-12:20) Recherche projet Pipeline 
-- (12:30-13:30) IBIS Pizza conference
-- (13:35-16:00) Recherche projet Pipeline 
+- (8:00-9:20) Recherche projet Pipeline 👍
+- (11:30-12:20) Recherche projet Pipeline 👍
+- (12:30-13:30) IBIS Pizza conference 👍
+- (13:35-16:00) Recherche projet Pipeline 👍
 
 ### May 24 (8:30-16h) (7h30)
 
-- (8:00-11:30) Recherche projet Pipeline
-- (11:30-13:00) Lab Meeting
-- (13:30-16:00) Recherche projet Pipeline 
+- (8:00-11:30) Recherche projet Pipeline 👍
+- (11:30-13:00) Lab Meeting 👍
+- (13:30-16:00) Recherche projet Pipeline 👍
 
 # Week 4
 
 ### May 27 (8:10-16:10) (8h)
-- (8:10-11:30) Prepare AMR presentation
-- (12:00-13:00) Coding Club
-- 13:00-16:00) Pipelin project & Prepare AMR presentation
+- (8:10-11:30) Prepare AMR presentation 👍
+- (12:00-13:00) Coding Club 👍
+- 13:00-16:00) Pipeline project & Prepare AMR presentation
+
+### May 28
+- Prep AMR pres
+- Pipeline project
+- (12:30-13:30) Interlab
+- (15:00-16:00) Antifungal Resistance meeting
+
+### May 29 
+- (13:00) Practice AMR pres
+
+### May 30
+- (11:30-13:30) Romain's practice seminar
+
+### May 31
+- (11:30-13:00) Lab meeting
