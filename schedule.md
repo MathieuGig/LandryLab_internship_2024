@@ -120,3 +120,10 @@ TO DO:
 - (8:00-11:30) Recherche projet Pipeline
 - (11:30-13:00) Lab Meeting
 - (13:30-16:00) Recherche projet Pipeline 
+
+# Week 4
+
+### May 27 (8:10-16:10) (8h)
+- (8:10-11:30) Prepare AMR presentation
+- (12:00-13:00) Coding Club
+- 13:00-16:00) Pipelin project & Prepare AMR presentation
