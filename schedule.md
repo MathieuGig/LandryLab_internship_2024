@@ -127,14 +127,14 @@ TO DO:
 - (12:00-13:00) Coding Club 👍
 - (13:00-16:00) Pipeline project & Prepare AMR presentation
 
-### May 28
-- Prep AMR pres
-- Pipeline project
+### May 28 (5h)
+- (8:30-9:00) Prep AMR pres
+- (11:30-12:00) Pipeline project
 - (12:30-13:30) Interlab
 - (15:00-16:00) Antifungal Resistance meeting
 
 ### May 29 
-- (13:00) Practice AMR pres
+- (13:30) Practice AMR pres
 
 ### May 30
 - (11:30-13:30) Romain's practice seminar
