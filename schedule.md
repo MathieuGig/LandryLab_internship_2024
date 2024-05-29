@@ -138,10 +138,10 @@ TO DO:
 ### May 29 (8h)
 Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 
-- (8:20-9:20) Practice AMR pres
-- (9:20-10:20) VC_project
-- (10:20-11:20) Practice AMR pres
-- (11:20-12:20) VC_project
+- (8:20-9:20) Practice AMR pres 👍
+- (9:20-10:20) VC_project 👍
+- (10:20-11:20) Practice AMR pres 👍
+- (11:20-12:20) VC_project 👍
 - (13:00-13:30) Practice AMR pres
 - (13:30) Practice AMR pres with lab team
 - (14:00-15:00) Implement lab team feedback on AMR pres
@@ -153,4 +153,6 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 - (14:00-16:00) VC_project
 
 ### May 31
+- Practice Poster and AMR pres
 - (11:30-13:00) Lab meeting
+- Read article for Journal Club
