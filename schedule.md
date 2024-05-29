@@ -131,15 +131,26 @@ TO DO:
 - (8:30-9:00) Prep AMR pres 👍
 - (11:30-12:00) Pipeline project 👍
 - (12:30-13:30) Interlab 👍
-- (13:30-14:00) Prep AMR pres
-- (14:00-15:00) Pipeline project
-- (15:00-16:00) Antifungal Resistance meeting
+- (13:30-14:00) Prep AMR pres 👍
+- (14:00-15:00) Pipeline project 👍
+- (15:00-16:00) Antifungal Resistance meeting 👍
 
-### May 29 
-- (13:30) Practice AMR pres
+### May 29 (8h)
+Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
+
+- (8:20-9:20) Practice AMR pres
+- (9:20-10:20) VC_project
+- (10:20-11:20) Practice AMR pres
+- (11:20-12:20) VC_project
+- (13:00-13:30) Practice AMR pres
+- (13:30) Practice AMR pres with lab team
+- (14:00-15:00) Implement lab team feedback on AMR pres
+- (15:00-16:00) VC_project
 
 ### May 30
+- (8:20-9:20) Practice AMR pres and Poster
 - (11:30-13:30) Romain's practice seminar
+- (14:00-16:00) VC_project
 
 ### May 31
 - (11:30-13:00) Lab meeting
