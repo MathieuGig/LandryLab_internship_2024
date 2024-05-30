@@ -142,15 +142,16 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 - (9:20-10:20) VC_project 👍
 - (10:20-11:20) Practice AMR pres 👍
 - (11:20-12:20) VC_project 👍
-- (13:00-13:30) Practice AMR pres
-- (13:30) Practice AMR pres with lab team
-- (14:00-15:00) Implement lab team feedback on AMR pres
-- (15:00-16:00) VC_project
+- (13:00-13:30) Practice AMR pres 👍
+- (13:30) Practice AMR pres with lab team 👍
+- (14:00-16:00) Implement lab team feedback on AMR pres 👍
 
-### May 30
-- (8:20-9:20) Practice AMR pres and Poster
-- (11:30-13:30) Romain's practice seminar
-- (14:00-16:00) VC_project
+### May 30 (5h)
+- (8:20-9:20) Practice AMR pres 👍
+- (11:30-13:30) Romain's practice seminar 👍
+- 13:30-14:30) Prep AMR pres 👍
+- (14:30-15:30) Python bootcamp meeting 👍
+- (15:30-16:00) Scheduling 👍
 
 ### May 31
 - Practice Poster and AMR pres
