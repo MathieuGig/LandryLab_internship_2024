@@ -153,7 +153,8 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 - (14:30-15:30) Python bootcamp meeting 👍
 - (15:30-16:00) Scheduling 👍
 
-### May 31
-- Practice Poster and AMR pres
+### May 31 (8h)
+- (8:00-11:00) Practice Poster and AMR pres
 - (11:30-13:00) Lab meeting
-- Read article for Journal Club
+- (14:00-14:30) Practice flash talk with lab team
+- (15:00-16:00) Read article for Journal Club
