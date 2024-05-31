@@ -120,7 +120,7 @@ TO DO:
 - (11:30-13:00) Lab Meeting 👍
 - (13:30-16:00) Recherche projet Pipeline 👍
 
-# Week 4
+# Week 4 *(total heures manquantes accumulées = 2h)*
 
 ### May 27 (8:10-16:10) (8h)
 - (8:10-11:30) Prepare AMR presentation 👍
@@ -146,7 +146,7 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 - (13:30) Practice AMR pres with lab team 👍
 - (14:00-16:00) Implement lab team feedback on AMR pres 👍
 
-### May 30 (5h)
+### May 30 (5h30)
 - (8:20-9:20) Practice AMR pres 👍
 - (11:30-13:30) Romain's practice seminar 👍
 - 13:30-14:30) Prep AMR pres 👍
@@ -154,7 +154,7 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 - (15:30-16:00) Scheduling 👍
 
 ### May 31 (8h)
-- (8:00-11:00) Practice Poster and AMR pres
-- (11:30-13:00) Lab meeting
-- (14:00-14:30) Practice flash talk with lab team
+- (8:00-11:00) Practice Poster and AMR pres 👍
+- (11:30-13:00) Lab meeting 👍
+- (14:00-14:30) Practice flash talk with lab team 👍
 - (15:00-16:00) Read article for Journal Club
