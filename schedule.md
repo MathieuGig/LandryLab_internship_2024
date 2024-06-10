@@ -158,3 +158,20 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 - (11:30-13:00) Lab meeting 👍
 - (14:00-14:30) Practice flash talk with lab team 👍
 - (15:00-16:00) Read article for Journal Club
+
+
+# Week 5: Python Bootcamp *(tout repris le temps manquant)*
+
+# Week 6: 
+
+### June 10 (7h30)
+- (9:00-10:00) Read article for Journal Club
+- (10:00-11:30) VC_project
+- (12:00-13:00) Journal Club
+- (13:00-16:00) VC_project
+
+### June 11
+- (10:00-12:00) See Soham practice talk and Pascale's practice talk
+
+### June 12
+- (11:30-13:00) Lab meeting
