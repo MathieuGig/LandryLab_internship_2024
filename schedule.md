@@ -170,8 +170,10 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 - (12:00-13:00) Journal Club
 - (13:00-16:00) VC_project
 
-### June 11
+### June 11 (7h30)
+- (8:30-10:00) VC_project
 - (10:00-12:00) See Soham practice talk and Pascale's practice talk
+- (12:30-16:00) VC_project
 
 ### June 12
 - (11:30-13:00) Lab meeting
