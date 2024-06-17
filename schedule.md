@@ -182,7 +182,8 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 
 # Week 7: 
 ### June 17 (7h30)
-- 
+- VC_project
+- (12:00-13:00) Coding club
 
 ### June 18
 - (15:00-16:00) Antifungal resistance meeting
