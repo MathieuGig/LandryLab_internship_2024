@@ -177,3 +177,20 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 
 ### June 12
 - (11:30-13:00) Lab meeting
+
+### June 13 & 14: congés
+
+# Week 7: 
+### June 17 (7h30)
+- 
+
+### June 18
+- (15:00-16:00) Antifungal resistance meeting
+
+### June 19
+- (11:30-13:00) Lab meeting
+- (13:00-13:30) Meeting with Christian
+
+### June 20
+
+### June 21
