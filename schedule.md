@@ -185,13 +185,19 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 - VC_project
 - (12:00-13:00) Coding club
 
-### June 18
+### June 18 (3h)
+- Help Romain with my previous project for the paper.
+  - Fixed Shap values graph
+  - Updated amino acid identification and merging df.
 - (15:00-16:00) Antifungal resistance meeting
 
-### June 19
+### June 19 (7h30)
+- VC_project
 - (11:30-13:00) Lab meeting
 - (13:00-13:30) Meeting with Christian
 
-### June 20
+### June 20 (5h30)
 
-### June 21
+### June 21 (7h30)
+- VC_project
+- plan Speed talk for lab meeting
