@@ -191,12 +191,14 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
   - Updated amino acid identification and merging df.
 - (15:00-16:00) Antifungal resistance meeting
 
-### June 19 (7h30)
+### June 19 (7h)
 - VC_project
 - (11:30-13:00) Lab meeting
 - (13:00-13:30) Meeting with Christian
 
-### June 20 (5h30)
+### June 20 (5h)
+- Prepare workflow figure for VC_project.
+- Read on synthetic genome building.
 
 ### June 21 (7h30)
 - VC_project
