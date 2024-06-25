@@ -175,7 +175,7 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 - (10:00-12:00) See Soham practice talk and Pascale's practice talk
 - (12:30-16:00) VC_project
 
-### June 12
+### June 12 (7h30)
 - (11:30-13:00) Lab meeting
 
 ### June 13 & 14: congés
@@ -203,3 +203,9 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 ### June 21 (7h30)
 - VC_project
 - plan Speed talk for lab meeting
+
+# Week 8: *(total heures manquantes accumulées = 5h)*
+### June 25 (5h20)
+- Prep speed talk
+- VC_project
+- Écrire intro de mon rapport
