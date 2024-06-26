@@ -205,7 +205,11 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 - plan Speed talk for lab meeting
 
 # Week 8: *(total heures manquantes accumulées = 5h)*
-### June 25 (5h20)
+### June 25 (5h30)
 - Prep speed talk
 - VC_project
+- Écrire intro de mon rapport
+
+### June 26 (8h)
+- Prep speed talk
 - Écrire intro de mon rapport
