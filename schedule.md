@@ -213,3 +213,17 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 ### June 26 (8h)
 - Prep speed talk
 - Écrire intro de mon rapport
+
+### June 27 (5h30)
+- Écrire intro de mon rapport
+- Écouter GAPP meeting
+- Rencontre avec Isa, Anna, Jessica
+- Prep Speed talk with new info
+
+### June 28 (8h)
+- Prep Speed talk
+- Lab meeting
+- Write intro rapport
+- Read article journal club
+
+# Week 9: *(total heures manquantes accumulées = 6h)*
