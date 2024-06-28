@@ -221,9 +221,11 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 - Prep Speed talk with new info
 
 ### June 28 (8h)
+- Helped Romain with manuscript.
 - Prep Speed talk
 - Lab meeting
+- Read chapter journal club
 - Write intro rapport
-- Read article journal club
 
 # Week 9: *(total heures manquantes accumulées = 6h)*
+Priority : Build synthetic genome
