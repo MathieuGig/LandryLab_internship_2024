@@ -229,3 +229,7 @@ Renaming 'pipeline project' to 'variant calling' or 'VC_project'.
 
 # Week 9: *(total heures manquantes accumulées = 6h)*
 Priority : Build synthetic genome
+
+### July 2 (6h)
+- Journal club
+- I found and downloaded the files for building the synthetic genome. They are in /project/synth_genome/
