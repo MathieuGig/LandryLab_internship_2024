@@ -1,0 +1,7 @@
+##gff-version 3
+##sequence-region   GG692418 1 50304
+#!genome-build GenBank GCA000006335v3
+#!genome-version GCA000006335v3
+#!genome-build-accession GCA_000006335.3
+GG692418	GCA000006335v3	region	1	50304	.	.	.	ID=region:GG692418
+###
