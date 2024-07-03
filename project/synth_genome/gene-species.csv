@@ -19,7 +19,7 @@ C1_03780C_A,Candida albicans
 C3_06850W_A,Candida albicans
 CR_08780W_A,Candida albicans
 CR_08800W_A,Candida albicans
-C1_00710C_A ,Candida albicans
+C1_00710C_A,Candida albicans
 CAGL0E04334g,Nasakeomyces glabrata
 CAGL0F01793g,Nasakeomyces glabrata
 CAGL0G01034g,Nasakeomyces glabrata
@@ -68,7 +68,7 @@ CPAR2_105880,Candida parapsilosis
 CTRG_05283,Candida tropicalis
 CTRG_04480,Candida tropicalis
 CTRG_04661,Candida tropicalis
-CTRG_02689 ,Candida tropicalis
+CTRG_02689,Candida tropicalis
 CTRG_02606,Candida tropicalis
 CTRG_02269,Candida tropicalis
 CTRG_05307,Candida tropicalis
