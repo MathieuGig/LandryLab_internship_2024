@@ -22,7 +22,7 @@ CR_08800W_A	Candida albicans
 C1_00710C_A 	Candida albicans
 CAGL0E04334g	Nasakeomyces glabrata
 CAGL0F01793g	Nasakeomyces glabrata
- CAGL0G01034g	Nasakeomyces glabrata
+CAGL0G01034g	Nasakeomyces glabrata
 CAGL0K04037g	Nasakeomyces glabrata
 CAGL0H09064g	Nasakeomyces glabrata
 CAGL0D01562g	Nasakeomyces glabrata
@@ -36,7 +36,7 @@ CAGL0L13392r	Nasakeomyces glabrata
 CAGL0L13376r	Nasakeomyces glabrata
 CAGL0K12650g	Nasakeomyces glabrata
 B9J08_001448	Candida auris
- B9J08_003737	Candida auris
+B9J08_003737	Candida auris
 B9J08_000964	Candida auris
 B9J08_001020	Candida auris
 B9J08_004076	Candida auris
@@ -90,8 +90,8 @@ CNF04830	Cryptococcus neoformans
 CNB04020	Cryptococcus neoformans
 CNC01920	Cryptococcus neoformans
 CNA07090	Cryptococcus neoformans
- AFUA_4G06890	Aspergillus fumigatus
- AFUA_6G05140	Aspergillus fumigatus
+AFUA_4G06890	Aspergillus fumigatus
+AFUA_6G05140	Aspergillus fumigatus
 AFUA_2G00320	Aspergillus fumigatus
 AFUA_6G12400	Aspergillus fumigatus
 AFUA_5G05460	Aspergillus fumigatus
