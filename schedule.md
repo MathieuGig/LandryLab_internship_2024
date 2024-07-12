@@ -233,3 +233,13 @@ Priority : Build synthetic genome
 ### July 2 (6h)
 - Journal club
 - I found and downloaded the files for building the synthetic genome. They are in /project/synth_genome/
+
+# Week 10
+
+### July 8 (7h30)
+
+### July 9 (5h30)
+
+### July 10 (7h30)
+
+### July 11 (4h)
