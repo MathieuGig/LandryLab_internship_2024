@@ -237,9 +237,29 @@ Priority : Build synthetic genome
 # Week 10
 
 ### July 8 (7h30)
+- Build synthetic genome
 
 ### July 9 (5h30)
+- Build synthetic genome
 
 ### July 10 (7h30)
+- Build synthetic genome
 
 ### July 11 (4h)
+- work on snakemake file
+
+### July 12 (6h30)
+- Build synthtetic genome
+- Work on snakemake file
+- read journal club article
+
+# Week 11
+
+###July 15 (7h30)
+- Journal Club
+- setup environment on server
+
+# To do
+- Read articles
+- Write report
+- Run pipeline

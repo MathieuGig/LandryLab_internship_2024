@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Updated on Mon July 12 2024
+Created on Mon Jun 10 13:49:38 2024
 
 @author: labolandry
 """
@@ -10,117 +10,58 @@ SAMPLES = ["A", "B"]
 
 rule all:
     input:
-        "calls/all.vcf", #expand("calls/{sample}.g.vcf", sample=SAMPLES), #expand("mapped_reads/{sample}.bam", sample=SAMPLES), #expand("trimmed/{sample}.fastq", sample=SAMPLES),
-        "quality/multiqc_report.html"
-
-rule fastqc:
-    input:
-        expand("data/samples/{sample}.fastq", sample=SAMPLES)
-    output:
-        "quality/{sample}_fastqc.html"
-    shell:
-        "fastqc {input} -o quality/"
-
-rule multiqc:
-    input: expand("quality/{sample}_fastqc.html", sample=SAMPLES)
-    output: "quality/multiqc_report.html"
-    wrapper: "0.31.1/bio/multiqc"
+        "plots/quals.svg"
 
 
-rule trimmomatic: #Single-end
+rule faqc:
     input:
         "data/samples/{sample}.fastq"
     output:
-        "trimmed/{sample}.fastq"
-    log:
-        "logs/trimmomatic/{sample}.log"
-    params:
-        # list of trimmers (see manual)
-        trimmer=["TRAILING:3"],
-        # optional parameters
-        extra="",
-        # optional compression levels from -0 to -9 and -11
-        compression_level="-9"
-    threads:
-        32
-    # optional specification of memory usage of the JVM that snakemake will respect with global
-    # resource restrictions (https://snakemake.readthedocs.io/en/latest/snakefiles/rules.html#resources)
-    # and which can be used to request RAM during cluster job submission as `{resources.mem_mb}`:
-    # https://snakemake.readthedocs.io/en/latest/executing/cluster.html#job-properties
-    resources:
-        mem_mb=1024
-    wrapper:
-        "v3.13.6/bio/trimmomatic/se"
+        "quality/{sample}.html"
+    shell:
+        "fastqc -o {output} {input}"
 
-
-rule test_bowtie2:
+rule bwa_map:
     input:
-        expand("trimmed/{sample}.fastq", sample=SAMPLES),
-        ref="data/genome.fa", #Required for CRAM output
+        "data/genome.fa",
+        "data/samples/{sample}.fastq"
     output:
         "mapped_reads/{sample}.bam"
-    log:
-        "logs/bowtie2/{sample}.log",
-    params:
-        extra="",  # optional parameters
-    threads: 8  # Use at least two threads
-    wrapper:
-        "v3.13.6/bio/bowtie2/align"
+    shell:
+        "bwa mem {input} | samtools view -Sb - > {output}"
 
-
-rule haplotype_caller_gvcf:
+rule samtools_sort:
     input:
-        # single or list of bam files
-        bam=expand("mapped_reads/{sample}.bam", sample=SAMPLES),
-        ref="data/genome.fa",
-        # known="dbsnp.vcf"  # optional
+        "mapped_reads/{sample}.bam"
     output:
-        gvcf="calls/{sample}.g.vcf",
-    #       bam="{sample}.assemb_haplo.bam",
-    log:
-        "logs/gatk/haplotypecaller/{sample}.log",
-    params:
-        extra="",  # optional
-        java_opts="",  # optional
-    threads: 4
-    resources:
-        mem_mb=1024,
-    wrapper:
-        "v3.13.7/bio/gatk/haplotypecaller"
+        "sorted_reads/{sample}.bam"
+    shell:
+        "samtools sort -T sorted_reads/{wildcards.sample} "
+        "-O bam {input} > {output}"
 
-
-rule join_gvcfs:
+rule samtools_index:
     input:
-        gvcfs=expand("calls/{sample}.g.vcf", sample=SAMPLES),
-        ref="data/genome.fa",
+        "sorted_reads/{sample}.bam"
     output:
-        gvcf="calls/all.g.vcf",
-    log:
-        "logs/gatk/combinegvcfs.log",
-    params:
-        extra="",  # optional
-        java_opts="",  # optional
-    resources:
-        mem_mb=1024,
-    wrapper:
-        "v3.13.7/bio/gatk/combinegvcfs"
+        "sorted_reads/{sample}.bam.bai"
+    shell:
+        "samtools index {input}"
 
-
-rule genotype_on_gvcf:
+rule bcftools_call:
     input:
-        gvcf="calls/all.g.vcf",  # combined gvcf over multiple samples
-    # N.B. gvcf or genomicsdb must be specified
-    # in the latter case, this is a GenomicsDB data store
-        ref="data/genome.fa"
+        fa="data/genome.fa",
+        bam=expand("sorted_reads/{sample}.bam", sample=SAMPLES),
+        bai=expand("sorted_reads/{sample}.bam.bai", sample=SAMPLES)
     output:
-        vcf="calls/all.vcf",
-    log:
-        "logs/gatk/genotypegvcfs.log"
-    params:
-        extra="",  # optional
-        java_opts="", # optional
-    resources:
-        mem_mb=1024
-    wrapper:
-        "v3.13.7/bio/gatk/genotypegvcfs"
+        "calls/all.vcf"
+    shell:
+        "bcftools mpileup -f {input.fa} {input.bam} | "
+        "bcftools call -mv - > {output}"
 
+rule plot_quals:
+    input:
+        "calls/all.vcf"
+    output:
+        "plots/quals.svg"
+    script:
+        "scripts/plot-quals.py"
