@@ -258,8 +258,8 @@ Priority : Build synthetic genome
 ###July 15 (7h30)
 - Journal Club
 - setup environment on server
+- Read articles
 
 # To do
-- Read articles
 - Write report
 - Run pipeline
