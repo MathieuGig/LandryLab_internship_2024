@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Updated on Mon July 26 2024
+Updated on August 15 2024
 
 @author: labolandry
 """
 
 SAMPLES = ["NS.2209.003.UDP0161_i7---UDP0161_i5.fRS1_", "NS.2209.003.UDP0163_i7---UDP0163_i5.fRS757_", "NS.2209.003.UDP0167_i7---UDP0167_i5.A12_"]
+#SAMPLES =  ["NS.X0087.004.UDP0374_i7---UDP0374_i5.MP-9_", "NS.X0087.004.UDP0374_i7---UDP0374_i5.MP-10"]
 READS = ["R1", "R2"]
 
 # WILL NEED TO UPDATE
@@ -15,8 +16,9 @@ READS = ["R1", "R2"]
 
 rule all:
     input:
-        "calls/all.vcf",
-        "quality/multiqc_report.html"
+        expand("rg_reads/{sample}.rg.sorted.bam.bai", sample=SAMPLES),
+        "calls/test3.table"
+       # "quality/multiqc_report.html"
 
 rule fastqc:
     input:
@@ -57,15 +59,15 @@ rule trimmomatic_pe:
     wrapper:
         "v3.13.7/bio/trimmomatic/pe"
 
-rule bwa_map:
+rule bwa_mem2_map:
     input:
-        "synth_genome.fa",
-        "trimmed/{sample}R1.fastq.gz",
-        "trimmed/{sample}R2.fastq.gz"
+        "v4_synthetic_genome.fa", #SYNTH
+        "../first_test/trimmed/{sample}R1.fastq.gz",
+        "../first_test/trimmed/{sample}R2.fastq.gz"
     output:
         "mapped_reads/{sample}.bam"
     shell:
-        "bwa mem {input} | samtools view -Sb - > {output}"
+        "bwa-mem2 mem {input} | samtools view -Sb - > {output}"
 
 
 rule samtools_sort:
@@ -86,17 +88,24 @@ rule modify_read_groups:
     shell:
         "samtools addreplacerg -r 'ID:{wildcards.sample}' -r 'LB:2209' -r 'PL:ILLUMINA' -r 'PU:testing001' -r 'SM:{wildcards.sample}' -o {output} {input}"
 
+rule samtools_index:
+    input:
+       "rg_reads/{sample}.rg.sorted.bam"
+    output:
+        "rg_reads/{sample}.rg.sorted.bam.bai"
+    shell:
+        "samtools index {input}"
 
 rule haplotype_caller_vcf:
     input:
         # single or list of bam files
         expand("rg_reads/{sample}.rg.sorted.bam", sample=SAMPLES)
     output:
-        "calls/all.vcf"
+        "calls/test3.vcf"
 #    log:
 #        "logs/gatk/haplotypecaller/all.log",
     shell:
-        "gatk --java-options '-Xmx4g' HaplotypeCaller " + ''.join(expand("-I rg_reads/{sample}.rg.sorted.bam ", sample=SAMPLES)) + "-R synth_genome.fa -O {output}"
+        "gatk --java-options '-Xmx4g' HaplotypeCaller " + ''.join(expand("-I rg_reads/{sample}.rg.sorted.bam ", sample=SAMPLES)) + "-R v4_synthetic_genome.fa -O {output}"
 #    params:
 #        extra="",  # optional
 #        java_opts="",  # optional
@@ -105,3 +114,12 @@ rule haplotype_caller_vcf:
 #        mem_mb=1024,
 #    wrapper:
 #        "v3.13.8/bio/gatk/haplotypecaller"
+
+
+rule MakeTable:
+    input:
+        "calls/test3.vcf"
+    output:
+        "calls/test3.table"
+    shell:
+        "gatk VariantsToTable -V {input} -F CHROM -F POS -F REF -F ALT -F AC -F AF -F AN -GF GT -O {output}"
