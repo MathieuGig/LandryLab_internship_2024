@@ -1,5 +1,5 @@
 
-# stage-ete2024
+# Internship 2024
 
 Code produced during my 2024 summer internship.
 
